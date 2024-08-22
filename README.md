@@ -5,7 +5,7 @@
 1. Achieve formatted output similar to Snap Hutao.
 2. Package the Python file into an executable (exe).
 
-
+<br/>
 
 *Required Packages*
 
@@ -13,13 +13,13 @@
 - time
 - requests
 
-
+<br/>
 
 *Regarding line breaks*
 
 Default to using "\r\n" of Windows
 
-
+<br/>
 
 *Supported Programs*
 
@@ -27,7 +27,7 @@ Currently, I have only attempted the "提瓦特小助手"
 
 < Welcome to more attempts >
 
-
+<br/>
 
 *Regarding Snap Hutao*
 
@@ -35,7 +35,7 @@ Currently, there is only an intention to transition to **[Snap Hutao](https://gi
 
 ​	Due to the reason that SnapHutao's default timezone is set to UTC+0, while the actual usage is UTC+8 (this assertion requires verification by the team), my approach is to obtain the UTC time and then designate UTC+8 as the new "UTC+0"
 
-
+<br/>
 
 *Cause*
 
@@ -43,7 +43,7 @@ I have previously utilized the "提瓦特小助手" and the standard output prov
 
 Inspired by **[NOWorEVER](https://github.com/NOWorEVER/UIGF2.2--UIGF-4)**
 
-
+<br/>
 
 *Acknowledgments*
 

@@ -6,7 +6,7 @@
 
 2. 把py文件打包成exe
 
-
+<br/>
 
 *需要的库*
 
@@ -16,13 +16,13 @@
 
 - requests
 
-
+<br/>
 
 *关于换行*
 
 默认使用Windows的\r\n
 
-
+<br/>
 
 *支持的程序*
 
@@ -30,7 +30,7 @@
 
 < 欢迎更多的尝试 >
 
-
+<br/>
 
 *关于Snap Hutao*
 
@@ -38,7 +38,7 @@
 
 ​	而由于Snap Hutao的时区默认是显示UTC+0，而实际使用的是UTC+8（该说法需该团队验证），我的方法是获取UTC后，将UTC+8作为新的"UTC"
 
-
+<br/>
 
 *缘由*
 
@@ -46,7 +46,7 @@
 
 灵感来自于[NOWorEVER](https://github.com/NOWorEVER/UIGF2.2--UIGF-4)
 
-
+<br/>
 
 **鸣谢**
 
