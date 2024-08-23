@@ -74,10 +74,17 @@ data_head["hk4e"][0].update({"list": data["list"]})
 data_head["info"]["export_timestamp"] = int(ts)
 data_head["info"]["export_app_version"] = Hutao_version
 data_head["hk4e"][0]["uid"] = str(data["info"]["uid"])
-data_head["hk4e"][0]["timezone"] = str(real_tz)
+data_head["hk4e"][0]["timezone"] = int(real_tz)
 fild_newName = data["list"][0]["uid"] + "UIGF.json"
 
 with open(fild_newName, "w", encoding="utf-8") as file:
-    json.dump(data_head, file, ensure_ascii=False)
+    json.dump(
+        data_head,
+        file,
+        ensure_ascii=False,
+        sort_keys=False,
+        indent=2,
+        separators=(",", ": "),
+    )
 
 print(f"Conversion file '{fild_newName}' generated successfully.")
