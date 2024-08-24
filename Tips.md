@@ -1,26 +1,58 @@
 *卡池ID/Banner-ID*
-<br/><br/>
+<br/>
 
-301.   up角色池/角色活动祈愿
-       "Character Event Wish"
-       <br/>
+<ol>
+    <li value="301">
+    &emsp;up角色池/角色活动祈愿<br><br>
+    &emsp;"Character Event Wish"
+    </li>
+</ol/>
 
-302.   up武器池/神铸赋形
-       "Weapon Event Wish/Epitome Invocation"
-       <br/>
+<ol>
+    <li value="302">
+    &emsp;up武器池/神铸赋形<br><br>
+    &emsp;"Weapon Event Wish/Epitome Invocation"
+    </li>
+</ol>
 
-200.   常驻/奔行世间
-       "Standard Wish/Wanderlust Invocation"
-       <br/>
-  
-100.   新手/新手祈愿
-       "Novice Wish/Beginners' Wish"
-       <br/>
+<ol>
+    <li value="301">
+    &emsp;up角色池/角色活动祈愿<br><br>
+    &emsp;"Character Event Wish"
+    </li>
+</ol>
 
-400.   角色活动祈愿-2
-       "Character Event Wish-2"
-       <br/>
+<ol>
+    <li value="302">
+    &emsp;up武器池/神铸赋形<br><br>
+    &emsp;"Weapon Event Wish/Epitome Invocation"
+    </li>
+</ol>
 
-500.   混池/集录祈愿
-       "Chronicled Wish/Ode to the Dawn Breeze"
-       <br/>
+<ol>
+    <li value="200">
+    &emsp;常驻/奔行世间<br><br>
+    &emsp;"Standard Wish/Wanderlust Invocation"
+    </li>
+</ol>
+
+<ol>
+    <li value="100">
+    &emsp;新手/新手祈愿<br><br>
+    &emsp;"Novice Wish/Beginners' Wish"
+    </li>
+</ol>
+
+<ol>
+    <li value="400">
+    &emsp;角色活动祈愿-2<br><br>
+    &emsp;"Character Event Wish-2"
+    </li>
+</ol>
+
+<ol>
+    <li value="500">
+    &emsp;混池/集录祈愿<br><br>
+    &emsp;"Chronicled Wish/Ode to the Dawn Breeze"
+    </li>
+</ol>
