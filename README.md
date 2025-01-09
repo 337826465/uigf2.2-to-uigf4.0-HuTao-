@@ -2,7 +2,7 @@
 
 *Plan*
 
-1. Package the Python file into an executable (exe).
+~~1. Package the Python file into an executable (exe).~~
 
 <br/>
 
